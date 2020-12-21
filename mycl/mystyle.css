@@ -1,0 +1,30 @@
+body{
+    font-family: arial;
+    background-color: #0d5e8a;
+    color: white;
+    font-size: 16px;
+}
+
+.wrap{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container p{
+    display: inline-block;
+    line-height: 1;;
+}
+
+.date{
+    text-align: center;
+    font-size: 2rem;
+    background-color: rgba(0, 0, 0, .5);
+    margin-bottom: 1rem;
+}
+
+.clock{
+    text-align: center;
+    font-size: 4rem;
+    background-color: rgba(0, 0, 0, .5);
+}
